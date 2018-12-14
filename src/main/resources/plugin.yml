@@ -1,0 +1,3 @@
+name: TNTInfo
+version: ${project.version}
+main: me.magnum.tntinfo.TNTInfo
